@@ -1,0 +1,2 @@
+M:\Unity Projects\War On Cancer\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+M:\Unity Projects\War On Cancer\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
