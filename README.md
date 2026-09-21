@@ -1,2 +1,2 @@
 # WarOnCancer
-Repo for war on cancer project
+Repo for WCMQ War On Cancer
