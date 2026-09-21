@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/System/Main/Levels/Lab/Main.unity
+    guid: 9a96a87a6dbcc6840bb68c5b8fec5881
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: b1e997fccde81554d979633c95ff6f03, type: 2}
+    com.unity.adaptivePerformance.basic.provider_settings: {fileID: 11400000, guid: 6ab0222469c235e47ab5595b4f38c942, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 53e2f301af6da824da223f5c2c7caccd, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 3aeac32517af4c148ab887755c5db3f2, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: b6d9a88de2042db428ba977153b14186, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 374de266cf672f04d9f3d23b6f896212, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d053f11d5ef09c142be13e5cb49441a0, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: dc94384210edb324a9e3be0b2507d20d, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 9815ac9954dfbe145bf31d747ea357be, type: 2}
+  m_UseUCBPForAssetBundles: 0

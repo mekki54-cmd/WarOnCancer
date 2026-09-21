@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Flashcard
+  - TargetCube
+  - Arrow
+  - Destructible
+  - CinemachineTarget
+  - LaserCollider
+  - LaserPointer
+  - Robot
+  - Event
+  - Hand
+  - Target
+  - Endo
+  - Exo
+  - Bombs
+  - Dome
+  - Marker Cap
+  - Food
+  - Cup
+  - KT
+  - PowerCell
+  - Robot Finger
+  - CellVial
+  - E-Vial
+  - MutationVial
+  - Pawn
+  - Counter
+  - Room
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - GrabbedObject
+  - Hand
+  - Particles
+  - FC
+  - UI_NoPost
+  - ArrowTarget
+  - LookAtRaycast
+  - Non_Player_Collision
+  - Watch
+  - Drawing_board
+  - Loading_Screen
+  - Glass_Liquid
+  - RobotNavMesh
+  - Weapon
+  - NoFade
+  - Prop
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Hitzone
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI_Glass
+    uniqueID: 3606485671
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Light Layer 1
+  - Light Layer 2
+  - Light Layer 3
+  - Light Layer 4
+  - Light Layer 5
+  - Light Layer 6
+  - Light Layer 7
